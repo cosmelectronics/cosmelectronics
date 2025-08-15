@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://i.imgur.com/your-banner-image.png" alt="COSM Electronics Banner" width="100%">
+<img src="https://github.com/cosmelectronics/cosmelectronics/blob/main/COSM_Electronics_Banner.png" alt="COSM Electronics Banner" width="100%">
 
 <!-- Typing Effect -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFB3&width=500&lines=Hi%2C+I'm+Prince+%F0%9F%91%8B;Electronics+Engineer+%26+Maker;Arduino%2C+ESP32%2C+STM32+Projects;Let's+Innovate+Together!)](https://git.io/typing-svg)
