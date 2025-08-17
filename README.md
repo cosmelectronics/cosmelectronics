@@ -32,12 +32,12 @@
 ---
 
 ## 📬 Connect With Me
-[![YouTube](https://img.shields.io/badge/YouTube-Channel-red?style=for-the-badge&logo=youtube)](https://youtube.com)
-[![Instagram](https://img.shields.io/badge/Instagram-Profile-pink?style=for-the-badge&logo=instagram)](https://instagram.com)
+[![YouTube](https://img.shields.io/badge/YouTube-Channel-red?style=for-the-badge&logo=youtube)](http://www.youtube.com/@cosmelectronics)
+[![Instagram](https://img.shields.io/badge/Instagram-Profile-pink?style=for-the-badge&logo=instagram)](https://instagram.com/@cosmelectronics)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/cosmelectronics)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp)](https://wa.me/123456789)
-[![Telegram](https://img.shields.io/badge/Telegram-Channel-1DA1F2?style=for-the-badge&logo=telegram)](https://t.me/username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/newsletters/7079476255753912320/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VaJnmX82v1Ixr7alqh0t)
+[![Telegram](https://img.shields.io/badge/Telegram-Channel-1DA1F2?style=for-the-badge&logo=telegram)](https://t.me/cosmelectronics)
 
 ---
 
