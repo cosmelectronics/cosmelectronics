@@ -33,14 +33,10 @@
 
 ## 🎥 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-<!-- These will auto-update using GitHub Actions -->
 <!-- YOUTUBE:END -->
-
----
 
 ## 📂 Recent Projects
 <!-- PROJECTS:START -->
-<!-- These will auto-update using GitHub Actions -->
 <!-- PROJECTS:END -->
 
 ---
