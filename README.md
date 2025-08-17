@@ -31,16 +31,6 @@
 
 ---
 
-## 🎥 Latest YouTube Videos
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
-
-## 📂 Recent Projects
-<!-- PROJECTS:START -->
-<!-- PROJECTS:END -->
-
----
-
 ## 📬 Connect With Me
 [![YouTube](https://img.shields.io/badge/YouTube-Channel-red?style=for-the-badge&logo=youtube)](https://youtube.com)
 [![Instagram](https://img.shields.io/badge/Instagram-Profile-pink?style=for-the-badge&logo=instagram)](https://instagram.com)
